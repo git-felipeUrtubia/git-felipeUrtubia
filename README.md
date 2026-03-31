@@ -26,7 +26,7 @@ I am a 3rd-year Computer Engineering student based in Santiago, Chile. I'm passi
 ### 🌟 Featured Projects
 
 * **[Radio Maranatha](URL_A_TU_REPO)**: Mobile streaming app built with Kotlin/Jetpack Compose.
-* **[Puerta a Tokio](URL_A_TU_REPO)**: Fullstack tourism site using React and Spring Boot microservices.
+* **[Kadosh](URL_A_TU_REPO)**: Fullstack e-commerce site using React and Java Spring Boot.
 * **[Inventory System](URL_A_TU_REPO)**: Desktop inventory management for small businesses (Electron + Spring Boot).
 
 ---
