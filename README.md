@@ -25,9 +25,9 @@ I am a 3rd-year Computer Engineering student based in Santiago, Chile. I'm passi
 
 ### 🌟 Featured Projects
 
-* **[Radio Maranatha](URL_A_TU_REPO)**: Mobile streaming app built with Kotlin/Jetpack Compose.
-* **[Kadosh](URL_A_TU_REPO)**: Fullstack e-commerce site using React and Java Spring Boot.
-* **[Inventory System](URL_A_TU_REPO)**: Desktop inventory management for small businesses (Electron + Spring Boot).
+* **[Radio Maranatha](https://github.com/git-felipeUrtubia/RadioProject.git)**: Mobile streaming app built with Kotlin/Jetpack Compose.
+* **[Kadosh](https://github.com/git-felipeUrtubia/Kadosh.git)**: Fullstack e-commerce site using React and Java Spring Boot.
+* **[Inventory System](https://github.com/git-felipeUrtubia/AppInventory.git)**: Desktop inventory management for small businesses (Electron + Spring Boot).
 
 ---
 
