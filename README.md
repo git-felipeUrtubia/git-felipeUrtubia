@@ -5,7 +5,7 @@ I am a 3rd-year Computer Engineering student based in Santiago, Chile. I'm passi
 
 - 💻 Currently focusing on **Spring Boot, React, and Kotlin**.
 - 📱 Developing and maintaining **Radio Maranatha** (available on Google Play).
-- 🇯🇵 Working on **Puerta a Tokio**, a tourism platform with microservices architecture.
+- 🇯🇵 Working on **Kadosh**, a e-commerce platform with monolithic architecture.
 - 🎓 Specializing in Software Development.
 
 ---
