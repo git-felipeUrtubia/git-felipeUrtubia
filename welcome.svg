@@ -72,18 +72,15 @@
     <tspan class="letter" style="animation-delay:0.62s">m</tspan>
     <tspan class="letter" style="animation-delay:0.72s">e</tspan>
     <tspan class="letter" style="animation-delay:0.82s">&#160;</tspan>
-    <tspan class="letter" style="animation-delay:0.92s">t</tspan>
-    <tspan class="letter" style="animation-delay:1.02s">o</tspan>
-    <tspan class="letter" style="animation-delay:1.12s">&#160;</tspan>
-    <tspan class="letter" style="animation-delay:1.22s">m</tspan>
-    <tspan class="letter" style="animation-delay:1.32s">y</tspan>
-    <tspan class="letter" style="animation-delay:1.42s">&#160;</tspan>
-    <tspan class="letter" style="animation-delay:1.52s">G</tspan>
-    <tspan class="letter" style="animation-delay:1.62s">i</tspan>
-    <tspan class="letter" style="animation-delay:1.72s">t</tspan>
-    <tspan class="letter" style="animation-delay:1.82s">H</tspan>
-    <tspan class="letter" style="animation-delay:1.92s">u</tspan>
-    <tspan class="letter" style="animation-delay:2.02s">b</tspan>
+    <tspan class="letter" style="animation-delay:0.92s">i</tspan>
+    <tspan class="letter" style="animation-delay:1.02s">'</tspan>
+    <tspan class="letter" style="animation-delay:1.12s">m</tspan>
+    <tspan class="letter" style="animation-delay:1.22s">&#160;</tspan>
+    <tspan class="letter" style="animation-delay:1.32s">l</tspan>
+    <tspan class="letter" style="animation-delay:1.42s">u</tspan>
+    <tspan class="letter" style="animation-delay:1.52s">c</tspan>
+    <tspan class="letter" style="animation-delay:1.62s">c</tspan>
+    <tspan class="letter" style="animation-delay:1.72s">i</tspan>
   </text>
   <rect x="-200" y="0" width="140" height="200" fill="url(#shine)">
     <animate attributeName="x" from="-200" to="1260" dur="5.2s" begin="2.3s" repeatCount="indefinite"/>
