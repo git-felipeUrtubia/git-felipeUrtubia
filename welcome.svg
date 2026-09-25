@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Welcome to my GitHub">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="42%" stop-color="#4a1d78">
+        <animate attributeName="offset" values="0.28;0.62;0.28" dur="9s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#120814"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#c9a6ff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#c9a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .letter {
+        opacity: 0;
+        animation: appear 0.45s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+      }
+      @keyframes appear {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
+      }
+      .caret {
+        opacity: 0;
+        animation: blink 0.85s steps(1, end) 2.1s 7;
+      }
+      @keyframes blink {
+        0%, 45% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect width="1200" height="200" fill="url(#glow)"/>
+
+  <circle cx="140" cy="48" r="36" fill="#b794f6" opacity="0.08">
+    <animate attributeName="cy" values="48;62;48" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1040" cy="150" r="52" fill="#9f7aea" opacity="0.1">
+    <animate attributeName="cy" values="150;132;150" dur="8.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="160" r="3" fill="#f6f1ff" opacity="0.55">
+    <animate attributeName="opacity" values="0.15;0.8;0.15" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="46" r="2.2" fill="#f6f1ff" opacity="0.45">
+    <animate attributeName="opacity" values="0.1;0.75;0.1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="860" cy="168" r="1.8" fill="#e9d8fd">
+    <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.8s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="46" font-weight="600" fill="#f7f2ff" letter-spacing="1.2" filter="url(#soft)">
+    <tspan class="letter" style="animation-delay:0.15s">W</tspan>
+    <tspan class="letter" style="animation-delay:0.23s">e</tspan>
+    <tspan class="letter" style="animation-delay:0.31s">l</tspan>
+    <tspan class="letter" style="animation-delay:0.39s">c</tspan>
+    <tspan class="letter" style="animation-delay:0.47s">o</tspan>
+    <tspan class="letter" style="animation-delay:0.55s">m</tspan>
+    <tspan class="letter" style="animation-delay:0.63s">e</tspan>
+    <tspan class="letter" style="animation-delay:0.71s">&#160;</tspan>
+    <tspan class="letter" style="animation-delay:0.79s">t</tspan>
+    <tspan class="letter" style="animation-delay:0.87s">o</tspan>
+    <tspan class="letter" style="animation-delay:0.95s">&#160;</tspan>
+    <tspan class="letter" style="animation-delay:1.03s">m</tspan>
+    <tspan class="letter" style="animation-delay:1.11s">y</tspan>
+    <tspan class="letter" style="animation-delay:1.19s">&#160;</tspan>
+    <tspan class="letter" style="animation-delay:1.27s">G</tspan>
+    <tspan class="letter" style="animation-delay:1.35s">i</tspan>
+    <tspan class="letter" style="animation-delay:1.43s">t</tspan>
+    <tspan class="letter" style="animation-delay:1.51s">H</tspan>
+    <tspan class="letter" style="animation-delay:1.59s">u</tspan>
+    <tspan class="letter" style="animation-delay:1.67s">b</tspan>
+    <tspan class="caret">|</tspan>
+  </text>
+
+  <rect x="-220" y="0" width="180" height="200" fill="url(#shine)">
+    <animate attributeName="x" from="-220" to="1240" dur="4.8s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="198" width="0" height="2" fill="#d6bcfa">
+    <animate attributeName="width" from="0" to="1200" begin="1.8s" dur="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0.95;0.35;0.95" begin="2.7s" dur="3.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
