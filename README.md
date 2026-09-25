@@ -1,36 +1,36 @@
-# Hi, I'm Felipe Alejandro Urtubia 👋
+<div align="center">
 
-### 🚀 Software Development Student | Fullstack Enthusiast
-I am a 3rd-year Computer Engineering student based in Santiago, Chile. I'm passionate about building scalable applications and solving real-world problems through code. 
+<!-- Banner Killua / Hunter x Hunter -->
+<img src="https://images4.alphacoders.com/669/669389.jpg" width="100%" alt="Hunter x Hunter Banner" style="border-radius: 8px; max-height: 240px; object-fit: cover;" />
 
-- 💻 Currently focusing on **Spring Boot, React, and Kotlin**.
-- 📱 Developing and maintaining **Radio Maranatha** (available on Google Play).
-- 🇯🇵 Working on **Kadosh**, a e-commerce platform with monolithic architecture.
-- 🎓 Specializing in Software Development.
+# ⚡ my profile ⚡
 
----
+</div>
 
-### 🛠️ Tech Stack & Tools
+`felipe@github:~$ cd bio; ./hunter_bio.sh`
 
-**Backend:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+<br/>
 
-**Frontend & Mobile:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<table border="0">
+ <tr>
+    <td width="30%" align="center" valign="middle">
+      <!-- Personaje / Sprite estilo anime a la izquierda -->
+      <img src="https://media.tenor.com/7gK2OQn8b1MAAAAi/killua-hunter-x-hunter.gif" width="180px" alt="Killua" />
+    </td>
+    <td width="70%" valign="top">
 
-**Databases & Tools:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+```yaml
+felipe@github
+-----------------------------------------
+I'm: Felipe Alejandro
+Pronouns: he/him
+Location: Santiago, Chile
+Hunter Class: Transmuter (⚡ Fullstack Dev)
+Hobbies: Coding, Anime & Gaming
 
----
+Languages: Java, TypeScript, JavaScript, Kotlin, C++
+Frameworks: Spring Boot, React, TailwindCSS
+Databases: MySQL, Oracle SQL
+Tools: Git, Linux, Docker
 
-### 🌟 Featured Projects
-
-* **[Radio Maranatha](https://github.com/git-felipeUrtubia/RadioProject.git)**: Mobile streaming app built with Kotlin/Jetpack Compose.
-* **[Kadosh](https://github.com/git-felipeUrtubia/Kadosh.git)**: Fullstack e-commerce site using React and Java Spring Boot.
-* **[Inventory System](https://github.com/git-felipeUrtubia/AppInventory.git)**: Desktop inventory management for small businesses (Electron + Spring Boot).
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipe.urtubia7@gmail.com)
+Status: Crafting clean code & scalable systems ⚡
