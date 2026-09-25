@@ -21,12 +21,10 @@ Location: Santiago, Chile
 Hunter Class: Transmuter (⚡ Fullstack Dev)
 Hobbies: Coding, Anime & Gaming
 
-Languages: Java, TypeScript, JavaScript, Kotlin, C++
-Frameworks: Spring Boot, React, TailwindCSS
+Languages: Java, TypeScript, JavaScript, Kotlin
+Frameworks: Spring Boot, React, TailwindCSS, NextJS
 Databases: MySQL, Oracle SQL
 Tools: Git, Linux, Docker
-
-Status: Crafting clean code & scalable systems ⚡
 
 ```
   </tr>  
