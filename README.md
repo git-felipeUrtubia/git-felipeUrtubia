@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Banner Killua / Hunter x Hunter -->
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/kfEsmZf"  ><a href="//imgur.com/a/kfEsmZf">HxH Fight 8-Bit</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+  <img src="https://i.imgur.com/MKDuazq.gif" width="100%" height="200px" alt="hxh" />
 # ⚡ my profile ⚡
 
 </div>
