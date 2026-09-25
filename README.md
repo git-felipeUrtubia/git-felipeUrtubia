@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Killua / Hunter x Hunter -->
-<img src="https://images4.alphacoders.com/669/669389.jpg" width="100%" alt="Hunter x Hunter Banner" style="border-radius: 8px; max-height: 240px; object-fit: cover;" />
+<img src="banner.jpg" width="100%" alt="Hunter x Hunter Banner" style="border-radius: 8px; max-height: 240px; object-fit: cover;" />
 
 # ⚡ my profile ⚡
 
@@ -15,7 +15,7 @@
  <tr>
     <td width="30%" align="center" valign="middle">
       <!-- Personaje / Sprite estilo anime a la izquierda -->
-      <img src="https://media.tenor.com/7gK2OQn8b1MAAAAi/killua-hunter-x-hunter.gif" width="180px" alt="Killua" />
+      <img src="killua.gif" width="180px" alt="Killua" />
     </td>
     <td width="70%" valign="top">
 
