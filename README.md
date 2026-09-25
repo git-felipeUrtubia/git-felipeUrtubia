@@ -8,7 +8,7 @@
  <tr>
     <td width="30%" align="center" valign="middle">
       <!-- Personaje / Sprite estilo anime a la izquierda -->
-      <img src="killua.gif" width="180px" alt="Killua" />
+      <img src="https://i.pinimg.com/736x/c5/01/8c/c5018cb962dfac680ce1afc5be5a6637.jpg" width="180px" alt="Killua" />
     </td>
     <td width="70%" valign="top">
 
