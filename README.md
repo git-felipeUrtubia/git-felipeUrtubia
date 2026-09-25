@@ -1,6 +1,6 @@
-<div align="center" width="100%">
-  <img src="https://i.imgur.com/MKDuazq.gif" height="200px" alt="hxh" />
-</div>
+
+
+
 
 <br/>
 
@@ -27,3 +27,11 @@ Databases: MySQL, Oracle SQL
 Tools: Git, Linux, Docker
 
 Status: Crafting clean code & scalable systems ⚡
+
+```
+  </tr>  
+</table> 
+
+<div align="center" width="100%">
+  <img src="https://i.imgur.com/MKDuazq.gif" height="200px" alt="hxh" />
+</div>
