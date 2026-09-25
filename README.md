@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/MKDuazq.gif" height="200px" alt="hxh" />
 </div>
 
-`felipe@github:~$ cd bio; ./hunter_bio.sh`
-
 <br/>
 
 <table border="0">
