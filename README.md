@@ -4,7 +4,7 @@
 
 <br/>
 
-<table border="0">
+<table border="0" align="center">
  <tr>
     <td width="30%" align="center" valign="middle">
       <!-- Personaje / Sprite estilo anime a la izquierda -->
