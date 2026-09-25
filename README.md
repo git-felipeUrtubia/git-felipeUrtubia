@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Killua / Hunter x Hunter -->
-<img src="banner.jpg" width="100%" alt="Hunter x Hunter Banner" style="border-radius: 8px; max-height: 240px; object-fit: cover;" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdiemtjN2R5d2YwYXJuNGpzM2UzdnQ1anc4cGxtaWd0MWN2b3FyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TgXigt9vG3siIzH8iG/giphy.gif" width="100%" alt="Hunter x Hunter Banner" style="border-radius: 8px; max-height: 240px; object-fit: cover;" />
 
 # ⚡ my profile ⚡
 
